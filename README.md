@@ -6,12 +6,12 @@ A Streamlit web app that predicts house prices in Bengaluru based on features li
 
 ## 📌 Features
 
-- ✅ Data preprocessing and feature engineering
-- ✅ Trained using Linear Regression
-- ✅ Location-based price prediction
-- ✅ One-hot encoding for location handling
-- ✅ Clean and interactive Streamlit UI
-- ✅ Model and column saving using pickle
+- Data preprocessing and feature engineering
+- Trained using Linear Regression
+- Location-based price prediction
+- One-hot encoding for location handling
+- Clean and interactive Streamlit UI
+- Model and column saving using pickle
 
 ---
 
