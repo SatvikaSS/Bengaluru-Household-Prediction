@@ -70,6 +70,9 @@ Kaggle Dataset: Bengaluru House Price Data
 
 ---
 
+Output
+![image](https://github.com/user-attachments/assets/fdddb9a0-df9d-4c61-bb25-56bc7db35cac)
+
 
 
 
